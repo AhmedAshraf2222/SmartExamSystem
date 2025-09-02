@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correct Exam - Smart Exams</title>
+    <link rel="stylesheet" href="css/correction.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <a href="index.html">Smart Exams</a>
+            </div>
+            <div class="navbar-links">
+                <a href="index.html">Home</a>
+                <a href="create.html">Create Exam</a>
+                <a href="correction.html">Correct Exam</a>
+                <a href="edit-profile.html">Edit Profile</a>
+                <a href="#" id="logoutBtn">Logout</a>
+            </div>
+        </div>
+    </nav>
+    <h2>Exam Correction</h2>
+    <form id="correction-form">
+        <label for="bubble-sheet-files">Upload Bubble Sheets (PDF or Images):</label>
+        <input type="file" id="bubble-sheet-files" multiple accept=".pdf,.png,.jpg,.jpeg" required><br><br>
+    
+        <label for="excel-file">Upload Excel File (Correct Answers):</label>
+        <input type="file" id="excel-file" accept=".xlsx" required><br><br>
+    
+        <button type="button" onclick="correctExam()">Correct Exams</button>
+    </form>
+    <p id="status"></p>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/correction.js"></script>
+    <script src="js/logout.js"></script>
+
+</body>
+
+</html>

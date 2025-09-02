@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Eng\\Graduation_proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\migrations\\20250617234920_fixunitorderidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:migrations\\20250617234920_fixunitorderidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\controllers\\examfilesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:controllers\\examfilesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\python\\correct.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:python\\correct.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\controllers\\bubblesheetprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:controllers\\bubblesheetprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|d:\\eng\\graduation_proj\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52326AD2-AFAC-4DB4-BFE2-38D522123285}|Graduation_proj.csproj|solutionrelative:models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginsController.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAE8AAAAAzczMzMwuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:59:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAABgZmZmZmY3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:59:19.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250617234920_FixUnitOrderIdentity.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Migrations\\20250617234920_FixUnitOrderIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250617234920_FixUnitOrderIdentity.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Migrations\\20250617234920_FixUnitOrderIdentity.cs",
+              "RelativeToolTip": "Migrations\\20250617234920_FixUnitOrderIdentity.cs",
+              "ViewState": "AgIAAMUAAAAAy8zMzMwmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:58:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaterialsController.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "Controllers\\MaterialsController.cs",
+              "ViewState": "AgIAAG4AAABAAAAAAAAwwHsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:57:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamFilesGenerator.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Controllers\\ExamFilesGenerator.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamFilesGenerator.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Controllers\\ExamFilesGenerator.cs",
+              "RelativeToolTip": "Controllers\\ExamFilesGenerator.cs",
+              "ViewState": "AgIAAPQCAAAAZ2ZmZmYkwKUDAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T04:49:31.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopicsController.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Controllers\\TopicsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TopicsController.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Controllers\\TopicsController.cs",
+              "RelativeToolTip": "Controllers\\TopicsController.cs",
+              "ViewState": "AgIAADsAAAAANDMzMzMDwNsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:54:39.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AgIAABUAAABAZmZmZmYSwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T22:24:05.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Correct.py",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\python\\Correct.py",
+              "RelativeDocumentMoniker": "python\\Correct.py",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\python\\Correct.py",
+              "RelativeToolTip": "python\\Correct.py",
+              "ViewState": "AgIAADMCAAAAAAAAAAAwwD0CAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-12T20:19:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Models\\Topic.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Models\\Topic.cs",
+              "RelativeToolTip": "Models\\Topic.cs",
+              "ViewState": "AgIAAAMAAABgZmZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:41:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Material.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "Models\\Material.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Models\\Material.cs",
+              "RelativeToolTip": "Models\\Material.cs",
+              "ViewState": "AgIAAA0AAAAgMzMzMzMywB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:14:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:18:34.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BubbleSheetProcessor.cs",
+              "DocumentMoniker": "D:\\Eng\\Graduation_proj\\Controllers\\BubbleSheetProcessor.cs",
+              "RelativeDocumentMoniker": "Controllers\\BubbleSheetProcessor.cs",
+              "ToolTip": "D:\\Eng\\Graduation_proj\\Controllers\\BubbleSheetProcessor.cs",
+              "RelativeToolTip": "Controllers\\BubbleSheetProcessor.cs",
+              "ViewState": "AgIAAA8AAAAAbGZmZmYGwBYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T04:49:57.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

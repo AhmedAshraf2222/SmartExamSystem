@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --primary-dark: #1a1a2e;
+    --primary-blue: #16213e;
+    --accent-blue: #0f3460;
+    --light-blue: #e94560;
+    --sidebar-bg: #16213e;
+    --form-bg: rgba(22, 33, 62, 0.95);
+    --hover-color: #e94560;
+    --success-color: #20c997;
+    --error-color: #ff6b6b;
+    --text-light: #ffffff;
+    --text-dark: #333333;
+    --border-radius: 8px;
+    --shadow-light: 0 2px 10px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+    margin: 0;
+    background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary-blue) 100%);
+}
+
+.navbar {
+    background: linear-gradient(180deg, var(--sidebar-bg) 0%, var(--accent-blue) 100%);
+    color: var(--text-light);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: var(--shadow-light);
+}
+
+.navbar-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 60px;
+}
+
+.logo a {
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+    background: linear-gradient(45deg, var(--light-blue), var(--accent-blue));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.navbar-links {
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-links a {
+    color: var(--text-light);
+    font-size: 16px;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    transition: var(--transition);
+}
+
+.navbar-links a:hover {
+    background: rgba(233, 69, 96, 0.2);
+    transform: translateY(-2px);
+}
+
+.content-area {
+    margin-top: 60px;
+    padding: 20px;
+    color: var(--text-light);
+}
+
+.content {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: var(--border-radius);
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.content-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--text-light);
+}
+
+.exam-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    background: var(--form-bg);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-light);
+}
+
+.exam-table th,
+.exam-table td {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    text-align: left;
+    color: var(--text-light);
+}
+
+.exam-table th {
+    background: rgba(233, 69, 96, 0.2);
+    font-weight: 600;
+}
+
+.exam-table td {
+    background: var(--form-bg);
+}
+
+.exam-table input[type="number"] {
+    width: 70px;
+    padding: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: var(--border-radius);
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-light);
+}
+
+.exam-table input[type="number"]:focus {
+    outline: none;
+    border-color: var(--hover-color);
+}
+
+.exam-table button {
+    background: linear-gradient(45deg, var(--success-color), #17a2b8);
+    color: var(--text-light);
+    padding: 6px 12px;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.exam-table button:hover {
+    background: var(--hover-color);
+    transform: translateY(-2px);
+}
+
+@media (max-width: 1024px) {
+    .exam-table {
+        font-size: 12px;
+    }
+
+    .exam-table th,
+    .exam-table td {
+        padding: 8px;
+    }
+
+    .exam-table input[type="number"] {
+        width: 60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .exam-table {
+        display: block;
+        overflow-x: auto;
+    }
+}

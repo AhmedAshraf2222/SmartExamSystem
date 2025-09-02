@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\TempFiles\\model_answer.jpg",
+      "PackagePath": "staticwebassets\\TempFiles\\model_answer.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\TempFiles\\student_answer.jpg",
+      "PackagePath": "staticwebassets\\TempFiles\\student_answer.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\Screenshot 2025-05-06 223519_3ec69347.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2025-05-06 223519_3ec69347.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\choice\\848e41c1-0d77-49c6-b18a-67df031641dc.png",
+      "PackagePath": "staticwebassets\\images\\choice\\848e41c1-0d77-49c6-b18a-67df031641dc.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\choice\\8529c257-1dd6-4094-ae8c-dd7538d4cc51.png",
+      "PackagePath": "staticwebassets\\images\\choice\\8529c257-1dd6-4094-ae8c-dd7538d4cc51.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\choice\\Screenshot 2025-05-06 222059.png",
+      "PackagePath": "staticwebassets\\images\\choice\\Screenshot 2025-05-06 222059.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\choice\\Screenshot 2025-05-06 223519.png",
+      "PackagePath": "staticwebassets\\images\\choice\\Screenshot 2025-05-06 223519.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\choice\\Screenshot 2025-05-06 225033.png",
+      "PackagePath": "staticwebassets\\images\\choice\\Screenshot 2025-05-06 225033.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\problem\\0a9c0f07-d81c-41d2-8b7b-4bb795694856.png",
+      "PackagePath": "staticwebassets\\images\\problem\\0a9c0f07-d81c-41d2-8b7b-4bb795694856.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\images\\problem\\Screenshot 2025-05-06 223519_3ec69347.png",
+      "PackagePath": "staticwebassets\\images\\problem\\Screenshot 2025-05-06 223519_3ec69347.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\img\\eng.jpg",
+      "PackagePath": "staticwebassets\\img\\eng.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\img\\zag.png",
+      "PackagePath": "staticwebassets\\img\\zag.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\06691d42-dd9d-41ce-960a-7297502d1b93.png",
+      "PackagePath": "staticwebassets\\uploads\\06691d42-dd9d-41ce-960a-7297502d1b93.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\1 (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\1 (1).jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\1 (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\1 (2).jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\16e48263-5889-4e05-bf31-c34f8ce88982.png",
+      "PackagePath": "staticwebassets\\uploads\\16e48263-5889-4e05-bf31-c34f8ce88982.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\1fb8428f-d644-4fa8-80dc-37a8f9f96db9.png",
+      "PackagePath": "staticwebassets\\uploads\\1fb8428f-d644-4fa8-80dc-37a8f9f96db9.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\2 (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\2 (1).jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\2 (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\2 (2).jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\208e8901-94af-4f80-b35c-4e47fe36fc8b.png",
+      "PackagePath": "staticwebassets\\uploads\\208e8901-94af-4f80-b35c-4e47fe36fc8b.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\3 (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\3 (1).jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\3 (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\3 (2).jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\38dd0b5c-a276-4bfc-a0c1-7bd77854f586.png",
+      "PackagePath": "staticwebassets\\uploads\\38dd0b5c-a276-4bfc-a0c1-7bd77854f586.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\3c0e3d2f-eb7f-488f-93bb-fd34c9398f68.png",
+      "PackagePath": "staticwebassets\\uploads\\3c0e3d2f-eb7f-488f-93bb-fd34c9398f68.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\5462afd8-91ce-4f75-a7ee-6188d5a2a99d.png",
+      "PackagePath": "staticwebassets\\uploads\\5462afd8-91ce-4f75-a7ee-6188d5a2a99d.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\5ceb73d0-2bf6-4f15-b621-3b835c6b11e5.png",
+      "PackagePath": "staticwebassets\\uploads\\5ceb73d0-2bf6-4f15-b621-3b835c6b11e5.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\7b1d691f-ed34-4238-af64-634cc4f9e08e.png",
+      "PackagePath": "staticwebassets\\uploads\\7b1d691f-ed34-4238-af64-634cc4f9e08e.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\7e5dfdff-2a09-407d-bad5-5372a5d81283.png",
+      "PackagePath": "staticwebassets\\uploads\\7e5dfdff-2a09-407d-bad5-5372a5d81283.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\8c3975b3-8fad-4ef1-9fd0-0fd76142231e.png",
+      "PackagePath": "staticwebassets\\uploads\\8c3975b3-8fad-4ef1-9fd0-0fd76142231e.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\91872e13-6653-4e42-9f0c-4524489eb865.png",
+      "PackagePath": "staticwebassets\\uploads\\91872e13-6653-4e42-9f0c-4524489eb865.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\BubbleSheets\\16771a02-70de-41ae-86a1-4dee759d1910\\bubble_sheet_model_A_42_Q.png",
+      "PackagePath": "staticwebassets\\uploads\\BubbleSheets\\16771a02-70de-41ae-86a1-4dee759d1910\\bubble_sheet_model_A_42_Q.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\BubbleSheets\\16771a02-70de-41ae-86a1-4dee759d1910\\bubble_sheet_model_B_42_Q.png",
+      "PackagePath": "staticwebassets\\uploads\\BubbleSheets\\16771a02-70de-41ae-86a1-4dee759d1910\\bubble_sheet_model_B_42_Q.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\a5d7fcee-cb4c-455e-9a70-17736bc446c3.png",
+      "PackagePath": "staticwebassets\\uploads\\a5d7fcee-cb4c-455e-9a70-17736bc446c3.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\bcb1c575-7b6c-4116-a98f-7493b22af004.png",
+      "PackagePath": "staticwebassets\\uploads\\bcb1c575-7b6c-4116-a98f-7493b22af004.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\d7bd44f6-e170-430f-b072-ad4bba143997.png",
+      "PackagePath": "staticwebassets\\uploads\\d7bd44f6-e170-430f-b072-ad4bba143997.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\e5eb91da-1d0b-4589-858f-4ae415153982.png",
+      "PackagePath": "staticwebassets\\uploads\\e5eb91da-1d0b-4589-858f-4ae415153982.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\model_answer.jpg",
+      "PackagePath": "staticwebassets\\uploads\\model_answer.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\stu_answer.pdf",
+      "PackagePath": "staticwebassets\\uploads\\stu_answer.pdf"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\student_answer.jpg",
+      "PackagePath": "staticwebassets\\uploads\\student_answer.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\student_answer.pdf",
+      "PackagePath": "staticwebassets\\uploads\\student_answer.pdf"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_image_0.png",
+      "PackagePath": "staticwebassets\\uploads\\test_image_0.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_image_1.png",
+      "PackagePath": "staticwebassets\\uploads\\test_image_1.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_image_2.png",
+      "PackagePath": "staticwebassets\\uploads\\test_image_2.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_page_0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\test_page_0.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_page_0.png",
+      "PackagePath": "staticwebassets\\uploads\\test_page_0.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_page_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\test_page_1.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_page_1.png",
+      "PackagePath": "staticwebassets\\uploads\\test_page_1.png"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_page_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\test_page_2.jpg"
+    },
+    {
+      "Id": "D:\\Eng\\Graduation_proj\\wwwroot\\uploads\\test_page_2.png",
+      "PackagePath": "staticwebassets\\uploads\\test_page_2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Graduation_proj.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Graduation_proj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Graduation_proj.props",
+      "PackagePath": "build\\Graduation_proj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Graduation_proj.props",
+      "PackagePath": "buildMultiTargeting\\Graduation_proj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Graduation_proj.props",
+      "PackagePath": "buildTransitive\\Graduation_proj.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

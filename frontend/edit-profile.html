@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Profile - Smart Exams</title>
+    <link rel="stylesheet" href="css/styleindex.css">
+    <style>
+        .profile-container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: calc(100vh - 70px);
+            margin-top: 70px;
+            padding: 20px;
+        }
+
+        .profile-content {
+            width: 100%;
+            max-width: 1500px;
+            background: linear-gradient(180deg, var(--sidebar-bg) 0%, var(--accent-blue) 100%);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-medium);
+            padding: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <a href="index.html">Smart Exams</a>
+            </div>
+            <div class="navbar-links">
+                <a href="index.html">Home</a>
+                <a href="create.html">Create Exam</a>
+                <a href="correction.html">Correct Exam</a>
+                <a href="edit-profile.html">Edit Profile</a>
+                <a href="#" id="logoutBtn">Logout</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- محتوى الصفحة الرئيسي بدون الشريط الجانبي -->
+    <div class="profile-container">
+        <div class="profile-content">
+            <h2 class="content-title">Edit Profile</h2>
+            <form id="editProfileForm" class="material-form">
+                <div class="input-item">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="Name" required maxlength="40">
+                </div>
+                <div class="input-item">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="Email" required maxlength="255">
+                </div>
+                <div class="input-item" style="position: relative;">
+                    <label for="password">New Password <small>(optional)</small></label>
+                    <input type="password" id="password" name="Password" maxlength="100" style="padding-right: 40px;">
+                    <span id="togglePassword" style="position: absolute; right: 10px; top: 38px; cursor: pointer;">👁️</span>
+                </div>                
+                <p class="error-message" id="errorMessage"></p>
+                <div class="button-group">
+                    <button type="submit" class="btn-save">Save Changes</button>
+                    <button type="button" class="btn-back" onclick="window.location.href='index.html'">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/logout.js"></script>
+    <script src="js/edit-profile.js"></script>
+</body>
+
+</html>

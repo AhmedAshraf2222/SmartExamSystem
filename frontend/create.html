@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Exam - Smart Exams</title>
+    <link rel="stylesheet" href="css/create.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <a href="index.html">Smart Exams</a>
+            </div>
+            <div class="navbar-links">
+                <a href="index.html">Home</a>
+                <a href="create.html">Create Exam</a>
+                <a href="correction.html">Correct Exam</a>
+                <a href="edit-profile.html">Edit Profile</a>
+                <a href="#" id="logoutBtn">Logout</a>
+            </div>
+        </div>
+    </nav>
+    <main class="content-area">
+        <div class="content">
+            <h2 class="content-title">Available Exams</h2>
+            <table class="exam-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Exam Name</th>
+                        <th>Material</th>
+                        <th>Main Degree</th>
+                        <th>Total Problems</th>
+                        <th>Shuffle</th>
+                        <th>Duration (Hours)</th>
+                        <th>Date</th>
+                        <th>University</th>
+                        <th>College</th>
+                        <th>Copies</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="exam-list"></tbody>
+            </table>
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/create.js"></script>
+    <script src="js/logout.js"></script>
+
+</body>
+
+</html>

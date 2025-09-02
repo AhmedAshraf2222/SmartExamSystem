@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Exams</title>
+    <link rel="stylesheet" href="css/styleindex.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <a href="#">Smart Exams</a>
+            </div>
+            <div class="navbar-links">
+                <a href="index.html">Home</a>
+                <a href="create.html">Create Exam</a>
+                <a href="correction.html">Correct Exam</a>
+                <a href="edit-profile.html">Edit Profile</a>
+                <a href="#" id="logoutBtn">Logout</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <ul id="treeView">
+                <!-- Material -->
+                <li class="tree-item" data-type="root">
+                    <span class="tree-label" id="materials-label">Materials</span>
+                    <span class="toggle materials-toggle" aria-expanded="true">▼</span>
+                    <ul class="child-list" id="materials-list"></ul>
+                </li>
+                <!-- Topic -->
+                <li class="tree-item" data-type="root">
+                    <span class="tree-label" id="topics-label">Topics</span>
+                    <span class="toggle topics-toggle" aria-expanded="true">▼</span>
+                    <ul class="child-list" id="topics-list"></ul>
+                </li>
+                <!-- Group -->
+                <li class="tree-item" data-type="root">
+                    <span class="tree-label" id="groups-label">Groups</span>
+                    <span class="toggle groups-toggle" aria-expanded="true">▼</span>
+                    <ul class="child-list" id="groups-list"></ul>
+                </li>
+                <!-- Problem -->
+                <li class="tree-item" data-type="root">
+                    <span class="tree-label" id="problems-label">Problems</span>
+                    <span class="toggle problems-toggle" aria-expanded="true">▼</span>
+                    <ul class="child-list" id="problems-list"></ul>
+                </li>
+                <!-- Exam -->
+                <li class="tree-item" data-type="root">
+                    <span class="tree-label" id="exams-label">Exams</span>
+                    <span class="toggle exams-toggle" aria-expanded="true">▼</span>
+                    <ul class="child-list" id="exams-list"></ul>
+                </li>
+                <!-- Exam Unit -->
+                <li class="tree-item" data-type="root">
+                    <span class="tree-label" id="exam-units-label">Exam Units</span>
+                    <span class="toggle exam-units-toggle" aria-expanded="true">▼</span>
+                    <ul class="child-list" id="exam-units-list"></ul>
+                </li>
+            </ul>
+        </div>
+        <!-- Content Area -->
+        <div class="content-area">
+            <div id="content"></div>
+        </div>
+    </div>
+    <!-- Scripts -->
+    <script src="js/script.js"></script>
+    <script src="js/topics.js"></script>
+    <script src="js/groups.js"></script>
+    <script src="js/problems.js"></script>
+    <script src="js/exams.js"></script>
+    <script src="js/exam-units.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/logout.js"></script>
+</body>
+
+</html>

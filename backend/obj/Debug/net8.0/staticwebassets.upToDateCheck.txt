@@ -1,0 +1,53 @@
+wwwroot\favicon.ico
+wwwroot\images\choice\848e41c1-0d77-49c6-b18a-67df031641dc.png
+wwwroot\images\choice\8529c257-1dd6-4094-ae8c-dd7538d4cc51.png
+wwwroot\images\choice\Screenshot 2025-05-06 222059.png
+wwwroot\images\choice\Screenshot 2025-05-06 223519.png
+wwwroot\images\choice\Screenshot 2025-05-06 225033.png
+wwwroot\images\problem\0a9c0f07-d81c-41d2-8b7b-4bb795694856.png
+wwwroot\images\problem\Screenshot 2025-05-06 223519_3ec69347.png
+wwwroot\images\Screenshot 2025-05-06 223519_3ec69347.png
+wwwroot\img\eng.jpg
+wwwroot\img\logo.png
+wwwroot\img\zag.png
+wwwroot\login.html
+wwwroot\register.html
+wwwroot\TempFiles\model_answer.jpg
+wwwroot\TempFiles\student_answer.jpg
+wwwroot\uploads\06691d42-dd9d-41ce-960a-7297502d1b93.png
+wwwroot\uploads\1 (1).jpg
+wwwroot\uploads\1 (2).jpg
+wwwroot\uploads\16e48263-5889-4e05-bf31-c34f8ce88982.png
+wwwroot\uploads\1fb8428f-d644-4fa8-80dc-37a8f9f96db9.png
+wwwroot\uploads\2 (1).jpg
+wwwroot\uploads\2 (2).jpg
+wwwroot\uploads\208e8901-94af-4f80-b35c-4e47fe36fc8b.png
+wwwroot\uploads\3 (1).jpg
+wwwroot\uploads\3 (2).jpg
+wwwroot\uploads\38dd0b5c-a276-4bfc-a0c1-7bd77854f586.png
+wwwroot\uploads\3c0e3d2f-eb7f-488f-93bb-fd34c9398f68.png
+wwwroot\uploads\5462afd8-91ce-4f75-a7ee-6188d5a2a99d.png
+wwwroot\uploads\5ceb73d0-2bf6-4f15-b621-3b835c6b11e5.png
+wwwroot\uploads\7b1d691f-ed34-4238-af64-634cc4f9e08e.png
+wwwroot\uploads\7e5dfdff-2a09-407d-bad5-5372a5d81283.png
+wwwroot\uploads\8c3975b3-8fad-4ef1-9fd0-0fd76142231e.png
+wwwroot\uploads\91872e13-6653-4e42-9f0c-4524489eb865.png
+wwwroot\uploads\a5d7fcee-cb4c-455e-9a70-17736bc446c3.png
+wwwroot\uploads\bcb1c575-7b6c-4116-a98f-7493b22af004.png
+wwwroot\uploads\BubbleSheets\16771a02-70de-41ae-86a1-4dee759d1910\bubble_sheet_model_A_42_Q.png
+wwwroot\uploads\BubbleSheets\16771a02-70de-41ae-86a1-4dee759d1910\bubble_sheet_model_B_42_Q.png
+wwwroot\uploads\d7bd44f6-e170-430f-b072-ad4bba143997.png
+wwwroot\uploads\e5eb91da-1d0b-4589-858f-4ae415153982.png
+wwwroot\uploads\model_answer.jpg
+wwwroot\uploads\stu_answer.pdf
+wwwroot\uploads\student_answer.jpg
+wwwroot\uploads\student_answer.pdf
+wwwroot\uploads\test_image_0.png
+wwwroot\uploads\test_image_1.png
+wwwroot\uploads\test_image_2.png
+wwwroot\uploads\test_page_0.jpg
+wwwroot\uploads\test_page_0.png
+wwwroot\uploads\test_page_1.jpg
+wwwroot\uploads\test_page_1.png
+wwwroot\uploads\test_page_2.jpg
+wwwroot\uploads\test_page_2.png
